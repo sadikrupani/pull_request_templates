@@ -1,2 +1,2 @@
 # pull_request_templates
-sample pull request template
+1. Trying out pull request template for a **Feature**
