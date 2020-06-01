@@ -1,5 +1,7 @@
 # pull_request_templates
-sample pull request templates
+---------------------------
+# objective
+Proposal to use different types of template while raising a PR. 
 
 # types of templates
 - Feature template - https://github.com/sadikrupani/pull_request_templates/pull/6
